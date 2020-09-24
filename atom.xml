@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YlovexLN|不识字的词典</title>
+  
+  <subtitle>我将满天星辰曾与你，仍觉星辰不如你</subtitle>
+  <link href="https://www.ylovexln.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.ylovexln.cn/"/>
+  <updated>2020-09-17T10:27:51.891Z</updated>
+  <id>https://www.ylovexln.cn/</id>
+  
+  <author>
+    <name>YlovexLN</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>客服工作个人总结表</title>
+    <link href="https://www.ylovexln.cn/posts/35ca3840.html"/>
+    <id>https://www.ylovexln.cn/posts/35ca3840.html</id>
+    <published>2020-09-17T08:11:56.000Z</published>
+    <updated>2020-09-17T10:27:51.891Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;html&gt;
+&lt;div id=&quot;archive&quot;&gt;
+    &lt;div class=&quot;article-sort-title&quot;&gt;时间轴 - 12&lt;/div&gt;
+    &lt;div class=&quot;article-sort&quot;&gt;
+        &lt;div</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>调用butterfly主题的css让Markdown文章页面内显示时间表</title>
+    <link href="https://www.ylovexln.cn/posts/3380cf68.html"/>
+    <id>https://www.ylovexln.cn/posts/3380cf68.html</id>
+    <published>2020-09-17T02:51:23.000Z</published>
+    <updated>2020-09-17T10:30:28.799Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;在Markdown文章内显示时间表&quot;&gt;&lt;a href=&quot;#在Markdown文章内显示时间表&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客文件备份</title>
+    <link href="https://www.ylovexln.cn/posts/777a8137.html"/>
+    <id>https://www.ylovexln.cn/posts/777a8137.html</id>
+    <published>2020-08-14T01:30:46.000Z</published>
+    <updated>2020-08-23T08:16:46.485Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;创建-git文件夹&quot;&gt;&lt;a href=&quot;#创建-git文件夹&quot; class=&quot;headerlink&quot; title=&quot;创建.git文件夹&quot;&gt;&lt;/a&gt;创建.git文件夹&lt;/h3&gt;&lt;p&gt;初始化项目所在目录，初始化后会在当前目录下出现一个名为 .git</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 5.0</title>
+    <link href="https://www.ylovexln.cn/posts/158bbb86.html"/>
+    <id>https://www.ylovexln.cn/posts/158bbb86.html</id>
+    <published>2020-07-29T05:20:34.000Z</published>
+    <updated>2020-08-23T08:16:46.482Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Hexo的官方于7月29日将版本更新到了5.0。&lt;br&gt;为了感受新版本的提升，我第一时间将版本从4.2.1更新到了5.0。&lt;br&gt;但是备份的那边还是4.2.1。&lt;/p&gt;
+&lt;h5 id=&quot;封面来源（点击自动跳转-）&quot;&gt;&lt;a href=&quot;#封面来源（点击自动跳转-）&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>更换新的主题：Butterfly（蝴蝶）</title>
+    <link href="https://www.ylovexln.cn/posts/3ba13446.html"/>
+    <id>https://www.ylovexln.cn/posts/3ba13446.html</id>
+    <published>2020-07-29T04:35:41.000Z</published>
+    <updated>2020-08-23T08:16:46.485Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Butterfly（蝴蝶）&quot;&gt;&lt;a href=&quot;#Butterfly（蝴蝶）&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>泰拉瑞亚开直连服</title>
+    <link href="https://www.ylovexln.cn/posts/38408.html"/>
+    <id>https://www.ylovexln.cn/posts/38408.html</id>
+    <published>2020-07-19T09:16:31.000Z</published>
+    <updated>2020-08-23T08:16:46.486Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;开放外网&quot;&gt;&lt;a href=&quot;#开放外网&quot; class=&quot;headerlink&quot; title=&quot;开放外网&quot;&gt;&lt;/a&gt;开放外网&lt;/h3&gt;&lt;h4 id=&quot;桥接&quot;&gt;&lt;a href=&quot;#桥接&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="泰拉瑞亚（Terraria）" scheme="https://www.ylovexln.cn/categories/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%EF%BC%88Terraria%EF%BC%89/"/>
+    
+    
+    <category term="泰拉瑞亚（Terraria）" scheme="https://www.ylovexln.cn/tags/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%EF%BC%88Terraria%EF%BC%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>泰拉瑞亚（Terraria）Tshock服务器指令</title>
+    <link href="https://www.ylovexln.cn/posts/53457.html"/>
+    <id>https://www.ylovexln.cn/posts/53457.html</id>
+    <published>2020-05-23T01:23:26.000Z</published>
+    <updated>2020-08-23T08:16:46.487Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;收集来的泰拉瑞亚Tshock服务器相关指令（持续更新！）&lt;/p&gt;
+&lt;h2 id=&quot;服主刚开服先要输的指令&quot;&gt;&lt;a href=&quot;#服主刚开服先要输的指令&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="泰拉瑞亚（Terraria）" scheme="https://www.ylovexln.cn/categories/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%EF%BC%88Terraria%EF%BC%89/"/>
+    
+    
+    <category term="泰拉瑞亚（Terraria）" scheme="https://www.ylovexln.cn/tags/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%EF%BC%88Terraria%EF%BC%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>进入CS:GO社区服务器</title>
+    <link href="https://www.ylovexln.cn/posts/19167.html"/>
+    <id>https://www.ylovexln.cn/posts/19167.html</id>
+    <published>2020-05-17T01:16:37.000Z</published>
+    <updated>2020-08-23T08:16:46.488Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;点击下面的超链接即可进入，入口一不行就入口二。&lt;/p&gt;
+&lt;h2 id=&quot;YlovexLN的自建社区服&quot;&gt;&lt;a href=&quot;#YlovexLN的自建社区服&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CS:GO" scheme="https://www.ylovexln.cn/categories/CS-GO/"/>
+    
+    
+    <category term="CS:GO" scheme="https://www.ylovexln.cn/tags/CS-GO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CS:GO相关指令（持续更新）</title>
+    <link href="https://www.ylovexln.cn/posts/33791.html"/>
+    <id>https://www.ylovexln.cn/posts/33791.html</id>
+    <published>2020-05-14T13:29:48.000Z</published>
+    <updated>2020-08-23T08:16:46.481Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这章集合了我搜集来的CS:GO的指令包括控制台的和服务器的~&lt;/p&gt;
+&lt;p&gt;Ctrl+F 输入相关的关键词可以直接查找&lt;/p&gt;
+&lt;img src=</summary>
+        
+      
+    
+    
+    
+    <category term="CS:GO" scheme="https://www.ylovexln.cn/categories/CS-GO/"/>
+    
+    
+    <category term="CS:GO" scheme="https://www.ylovexln.cn/tags/CS-GO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文章嵌入bilibili视频</title>
+    <link href="https://www.ylovexln.cn/posts/56251.html"/>
+    <id>https://www.ylovexln.cn/posts/56251.html</id>
+    <published>2020-05-12T13:46:36.000Z</published>
+    <updated>2020-08-23T08:16:46.484Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;如何把嵌入&lt;a href=&quot;http://bilibili.com/&quot;&gt;Bilibili&lt;/a&gt;的视频在文章里&lt;/p&gt;
+&lt;h2 id=&quot;获取分享&quot;&gt;&lt;a href=&quot;#获取分享&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="博客创建日志" scheme="https://www.ylovexln.cn/categories/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="博客创建日志" scheme="https://www.ylovexln.cn/tags/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年5月10日，基于hexo的博客创建成功！</title>
+    <link href="https://www.ylovexln.cn/posts/60952.html"/>
+    <id>https://www.ylovexln.cn/posts/60952.html</id>
+    <published>2020-05-10T13:02:45.000Z</published>
+    <updated>2020-08-23T08:16:46.480Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Hexo&quot;&gt;&lt;a href=&quot;#Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hexo&quot;&gt;&lt;/a&gt;Hexo&lt;/h2&gt;&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="博客创建日志" scheme="https://www.ylovexln.cn/categories/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="博客创建日志" scheme="https://www.ylovexln.cn/tags/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="https://www.ylovexln.cn/posts/61016.html"/>
+    <id>https://www.ylovexln.cn/posts/61016.html</id>
+    <published>2020-05-10T13:02:44.000Z</published>
+    <updated>2020-08-23T08:16:46.483Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;!这是你的第一篇文章。校验&lt;a href=&quot;https://hexo.io/docs/&quot;&gt;文件资料&lt;/a&gt;更多信息。如果您在使用Hexo时遇到任何问题，您可以在这里找到答案&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="博客创建日志" scheme="https://www.ylovexln.cn/categories/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="博客创建日志" scheme="https://www.ylovexln.cn/tags/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+</feed>
